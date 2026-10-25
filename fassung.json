@@ -1,0 +1,21 @@
+{
+ "kurs": "i11",
+ "titel": "Informatik 11",
+ "nr": 1,
+ "datum": "2026-10-25",
+ "aenderungen": [
+  "Erste Fassung des Lernraums Informatik 11.",
+  "Kapitel 1 „Ein Spiel aus Text“: 15 Themen in zwei Teilen – Teil I „Das Spiel beginnt“ (Thema 1 bis 8) und Teil II „Räume und Rucksack“ (Thema 9 bis 15).",
+  "Jedes Thema hat Vortrag, Erklärung und Übung. Die Lösung öffnet das Kennwort, das dir dein Lehrer sagt.",
+  "In der Übung sagt dir der Selbstcheck, was schon passt und woran es noch hängt. Jede Aufgabe hat Stufen mit Sternen – du wählst, wie schwer.",
+  "Unter „Üben und Nachschlagen“: Glossar, Lernkarten, „Ich kann …“ und dein Fehlerbuch.",
+  "Am Ende jeder Übung „Abgabe erzeugen“ – die ZIP lädst du im Schulportal hoch.",
+  "Zahnrad oben rechts: „Stand mitnehmen“ und „Stand hereinnehmen“, wenn du zwischen Schule und Zuhause wechselst.",
+  "„Anmerkung“ oben: Stellen markieren, die du nicht verstehst, Fehler oder Ideen – sie gehen mit deiner Abgabe an deinen Lehrer.",
+  "Kapitel und Teile auf der Kursseite lassen sich einklappen.",
+  "Neue Fassungen holst du unten auf der Kursseite: „Nach neuer Fassung suchen“. Dein Stand und deine Programme bleiben, wie sie sind."
+ ],
+ "zip": "lernraum_i11.zip",
+ "sha256": "3dc893b12ff2cb4e806895721d3c18ab0a741e30d33051c5b4d86b09bb10f0c4",
+ "groesse": 1440692
+}
