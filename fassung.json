@@ -1,21 +1,18 @@
 {
  "kurs": "i11",
  "titel": "Informatik 11",
- "nr": 1,
- "datum": "2026-10-25",
+ "nr": 2,
+ "datum": "2026-10-27",
  "aenderungen": [
-  "Erste Fassung des Lernraums Informatik 11.",
-  "Kapitel 1 „Ein Spiel aus Text“: 15 Themen in zwei Teilen – Teil I „Das Spiel beginnt“ (Thema 1 bis 8) und Teil II „Räume und Rucksack“ (Thema 9 bis 15).",
-  "Jedes Thema hat Vortrag, Erklärung und Übung. Die Lösung öffnet das Kennwort, das dir dein Lehrer sagt.",
-  "In der Übung sagt dir der Selbstcheck, was schon passt und woran es noch hängt. Jede Aufgabe hat Stufen mit Sternen – du wählst, wie schwer.",
-  "Unter „Üben und Nachschlagen“: Glossar, Lernkarten, „Ich kann …“ und dein Fehlerbuch.",
-  "Am Ende jeder Übung „Abgabe erzeugen“ – die ZIP lädst du im Schulportal hoch.",
-  "Zahnrad oben rechts: „Stand mitnehmen“ und „Stand hereinnehmen“, wenn du zwischen Schule und Zuhause wechselst.",
-  "„Anmerkung“ oben: Stellen markieren, die du nicht verstehst, Fehler oder Ideen – sie gehen mit deiner Abgabe an deinen Lehrer.",
-  "Kapitel und Teile auf der Kursseite lassen sich einklappen.",
-  "Neue Fassungen holst du unten auf der Kursseite: „Nach neuer Fassung suchen“. Dein Stand und deine Programme bleiben, wie sie sind."
+  "Die Anleitung „So fängst du an“ ist neu gestaltet, mit Bildern zu jedem Schritt.",
+  "Oben rechts gibt es jetzt „Beenden“: Der Lernraum sichert deinen Stand und stoppt – danach darf der Stick raus.",
+  "Liegt dein Ordner in OneDrive, geht kein Stand mehr verloren: Ist der Lernraum auf einem anderen Rechner noch offen, fragt der Start nach.",
+  "Im Vortrag holt „⤢“ den Code mit der Shell oder die Folie rechts groß – Esc holt alles zurück.",
+  "Neu: Teil III „Das Fenster“ mit Thema 16 bis 19 – euer Spiel bekommt Knöpfe, ein Textfeld und eine Karte, und am Ende kommen Aufgaben wie in der Klausur.",
+  "Bricht ein Knopf beim Klick ab, steht der Fehler sofort rot in der Shell („Beim Klick, Zeile …“) – das Fenster läuft weiter.",
+  "Das Eingabefeld unter der Shell erscheint nur noch, wenn ein Programm wirklich etwas fragt."
  ],
  "zip": "lernraum_i11.zip",
- "sha256": "3dc893b12ff2cb4e806895721d3c18ab0a741e30d33051c5b4d86b09bb10f0c4",
- "groesse": 1440692
+ "sha256": "a8dddcbf5dd5a051dba497ff9cecd85d29a8ee984ef2c8fb11d978e7f69396a3",
+ "groesse": 2431255
 }
