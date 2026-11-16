@@ -1,18 +1,15 @@
 {
  "kurs": "i11",
  "titel": "Informatik 11",
- "nr": 2,
- "datum": "2026-10-27",
+ "nr": 3,
+ "datum": "2026-11-16",
  "aenderungen": [
-  "Die Anleitung „So fängst du an“ ist neu gestaltet, mit Bildern zu jedem Schritt.",
-  "Oben rechts gibt es jetzt „Beenden“: Der Lernraum sichert deinen Stand und stoppt – danach darf der Stick raus.",
-  "Liegt dein Ordner in OneDrive, geht kein Stand mehr verloren: Ist der Lernraum auf einem anderen Rechner noch offen, fragt der Start nach.",
-  "Im Vortrag holt „⤢“ den Code mit der Shell oder die Folie rechts groß – Esc holt alles zurück.",
-  "Neu: Teil III „Das Fenster“ mit Thema 16 bis 19 – euer Spiel bekommt Knöpfe, ein Textfeld und eine Karte, und am Ende kommen Aufgaben wie in der Klausur.",
-  "Bricht ein Knopf beim Klick ab, steht der Fehler sofort rot in der Shell („Beim Klick, Zeile …“) – das Fenster läuft weiter.",
-  "Das Eingabefeld unter der Shell erscheint nur noch, wenn ein Programm wirklich etwas fragt."
+  "Zwei neue Kapitel vor dem Spiel: „Wie eine Nachricht ankommt“ (Netze, Thema 1 bis 4) und „Der verlorene Koffer“ (Webseiten, Thema 1 bis 5).",
+  "Das Kennwort einer Lösung hat vier Wörter. Das Kennwort eines Themas öffnet auch die Lösungen aller Themen davor.",
+  "In einem Thema oben rechts: „Großansicht“. Kopfleiste und Titel klappen ein, „✕ Großansicht beenden“ holt sie zurück.",
+  "Im Zahnrad: „Vim-Tasten im Editor“. Wer Vim oder Neovim kennt, schaltet sie dort ein – alle anderen merken davon nichts."
  ],
  "zip": "lernraum_i11.zip",
- "sha256": "a8dddcbf5dd5a051dba497ff9cecd85d29a8ee984ef2c8fb11d978e7f69396a3",
- "groesse": 2431255
+ "sha256": "9214d30b54b8ab2329349566762f0a897a38387dbfa5eb82343a9820e3a563ea",
+ "groesse": 3525443
 }
