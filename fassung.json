@@ -1,15 +1,19 @@
 {
  "kurs": "i11",
  "titel": "Informatik 11",
- "nr": 3,
- "datum": "2026-11-16",
+ "nr": 4,
+ "datum": "2026-11-17",
  "aenderungen": [
-  "Zwei neue Kapitel vor dem Spiel: „Wie eine Nachricht ankommt“ (Netze, Thema 1 bis 4) und „Der verlorene Koffer“ (Webseiten, Thema 1 bis 5).",
-  "Das Kennwort einer Lösung hat vier Wörter. Das Kennwort eines Themas öffnet auch die Lösungen aller Themen davor.",
-  "In einem Thema oben rechts: „Großansicht“. Kopfleiste und Titel klappen ein, „✕ Großansicht beenden“ holt sie zurück.",
-  "Im Zahnrad: „Vim-Tasten im Editor“. Wer Vim oder Neovim kennt, schaltet sie dort ein – alle anderen merken davon nichts."
+  "Alle Themen sind überarbeitet: Oben steht, was du in dem Thema lernst und welche Idee dahintersteckt. Die Übung hat zwei Teile – „Pflicht“ und „Mehr“.",
+  "Die meisten Themen tragen jetzt den Fachbegriff im Titel, der alte Titel steht darunter. Viele Aufgaben sind neu oder haben eine neue Nummer.",
+  "In jeder Übung gibt es eine Aufgabe „Wie in der Klausur“: Du schreibst deine Antwort, vergleichst sie mit einer Musterlösung und hakst ab, was du schon hast. In vielen Themen ist die letzte Pflichtaufgabe eine Aufgabe „Wie im Abitur“.",
+  "Jede Übung endet mit einer Aufgabe „Für Expert*innen“ – für alle, die mehr wollen.",
+  "„Ich kann …“ hat neue Sätze, passend zu den überarbeiteten Themen.",
+  "Das letzte Thema des Spiels heißt jetzt „Klausurtraining“: eine Probeklausur zum ganzen Spiel und ein Merkblatt mit den Ideen aller drei Teile.",
+  "Werkstatt Karten: Die Karten lassen sich jetzt auch ziehen – auf den Vergleichstisch und zurück in die Reihe. Klicken und die Knöpfe gehen weiter wie bisher.",
+  "Fehlt im Webseiten-Kapitel eine Datei, nennt die Fehlerseite jetzt ihren ganzen Weg im Arbeitsordner."
  ],
  "zip": "lernraum_i11.zip",
- "sha256": "9214d30b54b8ab2329349566762f0a897a38387dbfa5eb82343a9820e3a563ea",
- "groesse": 3525443
+ "sha256": "71bf8cccfb79fc8a133b4eed1418fe0042b31420dd95f53f5135c9e1dd122c62",
+ "groesse": 3743558
 }
